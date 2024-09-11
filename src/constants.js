@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:8080'
+const BASE_URL = 'http://18.139.199.152:82'
 
 const URL_PATH = {
     USER_LOGIN: '/login',
